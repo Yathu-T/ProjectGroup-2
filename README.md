@@ -8,5 +8,5 @@
 
 3. This is for doctors who provide diagnosis of heart diseases in order to speed up diagonsis.
 
-4. Machine Learning/ Deep Neural Networks, Kaggle Dataset
+4. Machine Learning/ Deep Neural Networks, Kaggle Dataset, AWS for deployment etc.
     https://www.kaggle.com/ronitf/heart-disease-uci
