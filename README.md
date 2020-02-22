@@ -10,3 +10,12 @@
 
 4. Machine Learning/ Deep Neural Networks, Kaggle Dataset, AWS for deployment etc.
     https://www.kaggle.com/ronitf/heart-disease-uci
+
+## Project Idea 2 
+1. Prediction of Wild Fire causes
+
+2. Depending on the characteristic of a wildfire, determine what was the cause given a set of data.
+
+3. This is allow government entities from preventing similar wild fires from happening again, or to help law enforcement determine the culprit.
+
+4. Machine Learning / Deep Neural Networks, SQL database
