@@ -1,6 +1,6 @@
 # ProjectGroup-2
 
-## Project Idea 1 Abstract
+## Project Idea 1
 
 1. Heart Disease Detection
 
