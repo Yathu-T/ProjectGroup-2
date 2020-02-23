@@ -11,9 +11,9 @@ A patient to receive treatment. This project should allow for the input of vario
 person associated with the test has a heart disease or not. Machine learning can be used to create a model based on the given data set. We can also deploy it on the cloud and create a good UI using frontend/backend technologies. 
 
 3. This is for doctors who are usually busy attending to other patients that time for diagnosis becomes
-Rather lengthy to perform. Our hope is that an application to  speed up the diagnosis processes will allow
+Rather lengthy to perform. Our hope is that an application to speed up the diagnosis processes will allow
 For doctors to speed up the time it takes to finalize results so that it would increase the efficiency
-Of getting patients treated. Also, a patient can also use this application if they have the results themselves
+Of getting patients treated. Also, a patient can also use this application if they have the results themselves.
 
 4. Machine Learning
    -tensorflow
@@ -50,4 +50,26 @@ was the causes of these fires, it could assist in leading them to the culprit re
    Deployment to AWS EC2.
 
    Nodejs, HTML, CSS, REST API's
+
+
+
+
+
+## Project Idea 3
+
+1. Recipe Suggester
+
+2. Many people have a lot of food just in their pantries or refridgerators and do not know what to do with all the food that they have stored away. People will be able to add the ingredients that they own and will be shown suggested recipes based on those ingredients. Users can also refine the results by adding additional constraints such as recipe ratings, time, cost, nutrition, and dietary restrictions.
+
+3. This is to help people figure out what to cook, based on what ingredients they already have. This project can help them empty out their pantries or refridgerators by suggesting recipes that use ingredients that they have, and will also help people become more environmentally friendly by reducing food waste.
+
+4. Machine Learning
+   -tensorflow
+   -keras
+   -pandas
    
+   Kaggle Dataset stored in a database like mySQL/mongo. https://www.kaggle.com/hugodarwood/epirecipes
+   
+   Deployment to AWS EC2.
+
+   Nodejs, HTML, CSS, REST API's
