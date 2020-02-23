@@ -1,5 +1,18 @@
 # ProjectGroup-2
 
+## Project Idea 0
+
+1. Pneumonia Detection
+
+2. 1 million adults seek out medical attention from complications caused by pneumonia every year, and 50,000 due from the disease. In order to treat this, doctors must first determine if pneumonia is present. In order to do that, doctors examine chest x-ray scans to find certain infections in the lungs. This requires ample time for the doctors to check out, and if the doctor is overburdened with dozens of x-rays to examine, it could take a long time for patients to get their results, and seek treatment right away. This project utilizes the help of IBM watson to create a machine learning model that will learn from images of chest scans that have pneumonia present or not present. From this, doctors can use to assit in diagnosing to speed up the process and efficiency.
+
+3. This is in no way to replace doctors, but to add extra evidence and confidence that their conclusion is correct. With pneumonia being so common throughout all ages, it is important, especially during the season, to confirm every patient who has this sickness. 
+
+4. The project will utilize IBM Watson Image REcognition API to be accompanied with Backend/Front technologies like HTML, CSS, NodeJS, etc.
+
+Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+
 ## Project Idea 1
 
 1. Heart Disease Detection
