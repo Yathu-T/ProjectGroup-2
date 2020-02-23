@@ -35,7 +35,7 @@ Of getting patients treated. Also, a patient can also use this application if th
 
 2. 4/5 wild fires are caused by humans. (https://nhmu.utah.edu/sites/default/files/attachments/Wildfire%20FAQs.pdf) Wild fires are devasting to the environment, as many animals and houses are lost. Prevention of the causes of these 
 widespread fires are of the upmost priority in preserved wildlife and protecting towns. If investigators could predict what 
-was the causes of these fires, it could assist in leading them to the culprit responsible. Using Machine Learning on an existing dataset, we can use Tensorflow/Keras to create a model for predicting root causes of wild fires. MySQL databases can store this data (https://www.kaggle.com/new-york-state/nys-forest-ranger-wildland-fire-reporting), and receive more when fires occur. We can also have a user interface, as well as deployment on a cloud. 
+was the causes of these fires, it could assist in leading them to the culprit responsible. Using Machine Learning on an existing dataset, we can use Tensorflow/Keras to create a model for predicting root causes of wild fires. MySQL databases can store this data , and receive more when fires occur. We can also have a user interface, as well as deployment on a cloud. 
 
 3. The goal of this project is to ultimately prevent these fires from happening in the first place. Given fires occuring in California, Australia, and in the Amazon, the damages are immeasurable. We hope that past data on fires would provide an insight on who is ultimately responsible. 
 
@@ -44,4 +44,10 @@ was the causes of these fires, it could assist in leading them to the culprit re
    -keras
    -pandas
    
+   
+   Kaggle Dataset stored in a database like mySQL/mongo. https://www.kaggle.com/new-york-state/nys-forest-ranger-wildland-fire-reporting
+
+   Deployment to AWS EC2.
+
+   Nodejs, HTML, CSS, REST API's
    
