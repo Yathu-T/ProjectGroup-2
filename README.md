@@ -59,11 +59,12 @@ was the causes of these fires, it could assist in leading them to the culprit re
 
 1. Recipe Suggester
 
-2. Many people have a lot of food just in their pantries or refridgerators and do not know what to do with all the food that they have stored away. People will be able to add the ingredients that they own and will be shown suggested recipes based on those ingredients. Users can also refine the results by adding additional constraints such as recipe ratings, time, cost, nutrition, and dietary restrictions.
+2. Many people have a lot of food just in their pantries or refridgerators and do not know what to do with all the food that they have stored away. People will be able to add the ingredients (either by manually inputting or uploading photos of them) that they own and will be shown suggested recipes based on those ingredients. Users can also refine the results by adding additional constraints such as recipe ratings, time, cost, nutrition, and dietary restrictions.
 
 3. This is to help people figure out what to cook, based on what ingredients they already have. This project can help them empty out their pantries or refridgerators by suggesting recipes that use ingredients that they have, and will also help people become more environmentally friendly by reducing food waste.
 
 4. Machine Learning
+   -IBM Watson Visual Recognition
    -tensorflow
    -keras
    -pandas
