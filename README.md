@@ -87,3 +87,24 @@ was the causes of these fires, it could assist in leading them to the culprit re
    Deployment to AWS EC2.
 
    Nodejs, HTML, CSS, REST API's
+   
+   ## Project Idea 4
+   
+   1. Student's Assistant
+   
+   2. Some students are not auditory learners. Students go to lecture, get distracted, and only hear a small percentage of what the professor says. This means that not only is the students' time wasted, the professor's time is also wasted since not all of his words are being absorbed. The professor's use of his time would be maximized if all students absorbed 100% of his words. One way to achieve this is to use voice-to-text to write down all of the professor's words. We can take this one step further and create an application that
+   
+   A) creates a full text rendition of the lecture. This would involve 
+	   i) sorting the word-for-word content according to which slide they were on (i.e. Slide1 content, Slide2 content, etc.)
+	   ii) filtering out unnecessary words like "um" 
+      iii) fixing grammar and punctuation to make the content more readable 
+	   iv) create paragraphs instead of just having a monologue
+
+   B) Part B of the application would involve the application extracting key facts and presenting a compact summary of the lecture. It       can create lists of topics, identify definitions, and has a search functionality. 
+   
+3) Having a text version of each lecture allows students to review each lecture effectively and efficiently. Students who are visual learners will appreciate being able to read lectures. The professor will be happy knowing his words are absorbed. 
+
+4) Python Speech Recognition, HTML, CSS, MongoDB, Python, AWS, NodeJS, Machine Learning -tensorflow -keras -pandas
+https://www.kaggle.com/rtatman/english-word-frequency 
+
+
