@@ -1,6 +1,6 @@
 # ProjectGroup-2
 
-## Project Idea 0
+## Project Idea 1
 
 1. Pneumonia Detection
 
@@ -13,7 +13,7 @@
 Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 
-## Project Idea 1
+## Project Idea 2
 
 1. Heart Disease Detection
 
@@ -43,7 +43,7 @@ Of getting patients treated. Also, a patient can also use this application if th
    
    
 
-## Project Idea 2 
+## Project Idea 3
 1. Prediction of Wild Fire causes
 
 2. 4/5 wild fires are caused by humans. (https://nhmu.utah.edu/sites/default/files/attachments/Wildfire%20FAQs.pdf) Wild fires are devasting to the environment, as many animals and houses are lost. Prevention of the causes of these 
@@ -68,7 +68,7 @@ was the causes of these fires, it could assist in leading them to the culprit re
 
 
 
-## Project Idea 3
+## Project Idea 4
 
 1. Recipe Suggester
 
@@ -88,7 +88,7 @@ was the causes of these fires, it could assist in leading them to the culprit re
 
    Nodejs, HTML, CSS, REST API's
    
-## Project Idea 4
+## Project Idea 5
    
 1. Student's Assistant
    
