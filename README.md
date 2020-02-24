@@ -72,7 +72,7 @@ was the causes of these fires, it could assist in leading them to the culprit re
 
 1. Recipe Suggester
 
-2. Many people have a lot of food just in their pantries or refridgerators and do not know what to do with all the food that they have stored away. People will be able to add the ingredients (either by manually inputting or uploading photos of them) that they own and will be shown suggested recipes based on those ingredients. Users can also refine the results by adding additional constraints such as recipe ratings, time, cost, nutrition, and dietary restrictions.
+2. Many people have a lot of food just in their pantries or refrigerators and do not know what to do with all the food that they have stored away. People will be able to add the ingredients (either by manually inputting or uploading photos of them) that they own and will be shown suggested recipes based on those ingredients. Users can also refine the results by adding additional constraints such as recipe ratings, time, cost, nutrition, and dietary restrictions.
 
 3. This is to help people figure out what to cook, based on what ingredients they already have. This project can help them empty out their pantries or refridgerators by suggesting recipes that use ingredients that they have, and will also help people become more environmentally friendly by reducing food waste.
 
@@ -92,7 +92,7 @@ was the causes of these fires, it could assist in leading them to the culprit re
    
 1. Student's Assistant
    
-2. Some students are not auditory learners. Students go to lecture, get distracted, and only hear a small percentage of what the professor says. This means that not only is the students' time wasted, the professor's time is also wasted since not all of his words are being absorbed. The professor's use of his time would be maximized if all students absorbed 100% of his words. One way to achieve this is to use voice-to-text to write down all of the professor's words. We can take this one step further and create an application that
+2. Some students are not auditory learners. Students go to lecture, get distracted, and only hear a small percentage of what the professor says. This means that not only is the students' time wasted, the professor's time is also wasted since not all of his words are being absorbed. The professor's use of his time would be maximized if all students absorbed 100% of his/her words. This also benefits deaf studnets. One way to achieve this is to use voice-to-text to write down all of the professor's words. We can take this one step further and create an application that
    
    A) creates a full text rendition of the lecture. This would involve 
 	   i) sorting the word-for-word content according to which slide they were on (i.e. Slide1 content, Slide2 content, etc.)
