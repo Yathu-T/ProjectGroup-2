@@ -1,6 +1,6 @@
 # ProjectGroup-2
 
-## Project Idea 0
+## Project Idea 1
 
 1. Pneumonia Detection
 
