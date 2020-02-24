@@ -50,7 +50,7 @@ Of getting patients treated. Also, a patient can also use this application if th
 widespread fires are of the upmost priority in preserved wildlife and protecting towns. If investigators could predict what 
 was the causes of these fires, it could assist in leading them to the culprit responsible. Using Machine Learning on an existing dataset, we can use Tensorflow/Keras to create a model for predicting root causes of wild fires. MySQL databases can store this data , and receive more when fires occur. We can also have a user interface, as well as deployment on a cloud. 
 
-3. The goal of this project is to ultimately prevent these fires from happening in the first place. Given fires occuring in California, Australia, and in the Amazon, the damages are immeasurable. We hope that past data on fires would provide an insight on who is ultimately responsible. 
+3. The goal of this project is to ultimately prevent these fires from happening in the first place. Given fires occuring in California, Australia, and in the Amazon, the damages are immeasurable. We hope that past data on fire causes would provide some insight on what could have started, and potentially lead to finding culprits responsible.
 
 4. Machine Learning
    -tensorflow
